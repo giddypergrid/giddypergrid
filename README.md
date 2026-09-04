@@ -3,8 +3,7 @@
 Master of Applied Computing student at Lincoln University, New Zealand, graduating November 2026.
 Currently on a data engineering placement at Selwyn District Council, auditing customer data.
 
-I build things that run in production and have real users. Below is what is live, what it does, and
-roughly how big it is.
+Here are some stuff I built that are live.
 
 ### Live
 
