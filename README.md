@@ -35,7 +35,7 @@ Each repository's README leads with the design decisions and what the thing is f
 ### Reach me
 
 [sunziyuan000@gmail.com](mailto:sunziyuan000@gmail.com) ·
-[LinkedIn](https://www.linkedin.com/in/ziyuan-sun-694a27297/) · Christchurch, New Zealand
+[LinkedIn](https://www.linkedin.com/in/ziyuan-sun-nz/) · Christchurch, New Zealand
 
 Open to software, data and AI engineering roles from November 2026. I hold a 3-year open Post Study
 Work Visa.
