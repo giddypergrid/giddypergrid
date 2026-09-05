@@ -3,7 +3,15 @@
 Master of Applied Computing student at Lincoln University, New Zealand, graduating November 2026.
 Currently on a data engineering placement at Selwyn District Council, auditing customer data.
 
-Here are some stuff I built that are live.
+I can comfortably handle full stack development and carry it through to delivery and deployment. I
+know AWS and have deployed on it. For the bird sound project I ran the Django backend on ECS Fargate
+with RDS and EFS, shipped it through GitHub Actions, and ran the test suite against the live public
+URL.
+
+The part I want to keep working on is AI integration into real systems. I have taken machine
+learning and generative AI courses, and I have wired agentic tools into a product people use.
+
+Below is what is live, what it does, and roughly how big it is.
 
 ### Live
 
@@ -14,21 +22,7 @@ Here are some stuff I built that are live.
 | 💧 **[Global Freshwater Monitoring](https://global-freshwater-monitoring.vercel.app)** | Built for AgResearch. Shows whether a river monitoring site could actually detect a nutrient reduction. | 15,313 site-nutrient records, 1,177 catchments | Next.js · Leaflet · no backend |
 | 🐄 **[Parenchyma Measure](https://giddypergrid.github.io/Parenchyma-Measure-Label-Tool/)** | Lincoln dairy researchers label calf ultrasound scans with it. Replaced a manual MATLAB workflow. | in weekly use by the research group | React · Konva · runs entirely in the browser |
 
-### Repositories worth opening
-
-Each README leads with the design decisions rather than setup instructions.
-
-- **[nzfineprint-backend](https://github.com/giddypergrid/nzfineprint-backend)**, the flagship. Three
-  search routes, a four-tool agent, and a `DECISIONS.md` covering the calls I got wrong first.
-- **[NZBirdSoundDatabase-AWS](https://github.com/giddypergrid/NZBirdSoundDatabase-AWS)**, the same
-  app taken from "works on my machine" to ECS Fargate, with load shedding and 33 live API tests.
-- **[global-freshwater-monitoring](https://github.com/giddypergrid/global-freshwater-monitoring)**,
-  a statistics tool where the arithmetic runs in the browser and there is no server.
-
-### Before study
-
-Two years of production work in China: in-game UI and live state syncing for Eggy Party
-(NetEase, Dekeinfo), and GPT integration on a PHP backend at a legal-tech startup.
+Each repository's README leads with the design decisions and what the thing is for.
 
 ### Reach me
 
