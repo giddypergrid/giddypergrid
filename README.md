@@ -3,15 +3,23 @@
 Master of Applied Computing student at Lincoln University, New Zealand, graduating November 2026.
 Currently on a data engineering placement at Selwyn District Council, auditing customer data.
 
-I can comfortably handle full stack development and carry it through to delivery and deployment. I
-know AWS and have deployed on it. For the bird sound project I ran the Django backend on ECS Fargate
-with RDS and EFS, shipped it through GitHub Actions, and ran the test suite against the live public
-URL.
+I can comfortably handle full stack development and carry it through to delivery and deployment. The
+part I want to keep working on is AI integration into real systems.
 
-The part I want to keep working on is AI integration into real systems. I have taken machine
-learning and generative AI courses, and I have wired agentic tools into a product people use.
+### What I work with
 
-Below is what is live, what it does, and roughly how big it is.
+- **Languages:** Python, TypeScript, JavaScript, SQL
+- **Web and backend:** React, Next.js, FastAPI, Django REST, PostgreSQL, MySQL, Redis
+- **AWS:** for the bird sound project I ran the Django backend on ECS Fargate behind an Application
+  Load Balancer, with PostgreSQL on RDS, 44 GiB of model and media files on EFS, secrets in Secrets
+  Manager and logs in CloudWatch. Deploys go through GitHub Actions, with a manual rollback workflow
+  that redeploys a known-good task revision.
+- **AI and ML:** LLM integration, agents and tool calling, RAG, embeddings and vector search
+  (pgvector, HNSW), AutoGluon and LightGBM, Gemini, GPT and DeepSeek APIs. I have taken machine
+  learning and generative AI courses.
+- **Data:** ETL pipelines, data quality, record linkage
+- **Testing and CI:** pytest, live API tests against the deployed URL, k6 load testing, GitHub
+  Actions, Docker, Linux, Git
 
 ### Live
 
